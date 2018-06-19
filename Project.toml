@@ -1,0 +1,20 @@
+authors = ["Cruor <cruoratmc@gmail.com>", "Vexatos <Stuarzt@gmx.de>"]
+name = "Ahorn"
+uuid = "758f2280-739b-11e8-2a5b-4de435b9eb93"
+version = "0.1.0"
+
+[deps]
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
+Gtk = "4c0ca9eb-093a-5379-98c5-f87ac0bbbf44"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
+Maple = "7bc567e0-739b-11e8-07b8-83d6bec444d8"
+WinReg = "1b915085-20d7-51cf-bf83-8f477d6f5128"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+[compat]
+Example = "0.4.3"
+Cairo = "0.5.1"
+Gtk = "0.14.0"
+ImageMagick = "0.5.1"
+WinReg = "0.3"

@@ -11,3 +11,4 @@
 !/REQUIRE
 !/ahorn*
 !/install_ahorn.jl
+!/Project.toml
